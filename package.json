@@ -1,0 +1,23 @@
+{
+  "name": "keep",
+  "version": "1.0.0",
+  "description": "Aplikasi daftar tugas sederhana menggunakan React JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dindindesign/keep.git"
+  },
+  "keywords": [
+    "react",
+    "reactjs"
+  ],
+  "author": "Dindin Solehudin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dindindesign/keep/issues"
+  },
+  "homepage": "https://github.com/dindindesign/keep#readme"
+}
